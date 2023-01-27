@@ -1,0 +1,8 @@
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\bin\Debug\Kalkulator6konsola.exe.config
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\bin\Debug\Kalkulator6konsola.exe
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\bin\Debug\Kalkulator6konsola.pdb
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\obj\Debug\Kalkulator6konsola.csproj.AssemblyReference.cache
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\obj\Debug\Kalkulator6konsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\obj\Debug\Kalkulator6konsola.csproj.CoreCompileInputs.cache
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\obj\Debug\Kalkulator6konsola.exe
+C:\Users\RaV21\source\repos\Kalkulator6konsola\Kalkulator6konsola\obj\Debug\Kalkulator6konsola.pdb
